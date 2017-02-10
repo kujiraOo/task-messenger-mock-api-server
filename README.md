@@ -1,4 +1,4 @@
-#Mock API server for Task Messenger React app
+#Mock API Server for Task Messenger React App
 
 Follows API specs v0.0.3
 https://app.swaggerhub.com/api/kujiraOo/TaskMessenger/0.0.3
