@@ -1,0 +1,13 @@
+{
+  "name": "task-messenger-mock-api-server",
+  "version": "0.0.1",
+  "description": "Mock API server for Task Messenger",
+  "main": "server.js",
+  "scripts": {},
+  "author": "Team 2",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1",
+    "lodash": "^4.17.4"
+  }
+}
