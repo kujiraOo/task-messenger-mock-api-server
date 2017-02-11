@@ -28,10 +28,10 @@ If you want to change the port, change the value of `port` const in server.js
 
 ###Change log
 
-####v0.0.1 in progress
-- [x] User mock data
-- [x] Groups mock data
-- [ ] routes
+####v0.0.1
+- User mock data
+- Groups mock data
+- routes
     - /auth 
     - /users 
     - /groups
